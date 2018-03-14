@@ -1,6 +1,5 @@
 # AlarmAutoDialler
-House alarm panel outputs connected to Arduino which sends SMS when triggered.
-An Arduino GSM Shield 2 is used to send SMS texts.
+House alarm panel outputs are connected to an ARDUINO GSM SHIELD 2 (ANTENNA CONNECTOR).
 
 The alarm panel's outputs have the following open collector outputs:
   Alarm Set
