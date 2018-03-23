@@ -1,4 +1,4 @@
-# AlarmAutoDialler
+# GSM Alarm Auto Texter Dialler
 House alarm panel outputs are connected to an ARDUINO GSM SHIELD 2 (ANTENNA CONNECTOR).
 
 The alarm panel's outputs have the following open collector outputs:
